@@ -21,11 +21,21 @@
         Preprocessing, Feature Selection, and Model Building
         <ul>
           <li>
-            Explores key steps in machine learning workflow, including data preprocessing, feature engineering, model building, and reflection, while also gaining experience with classification and regression models
+            Explores key steps in machine learning workflow, including data preprocessing, feature engineering, model building, and reflection.
+          </li>
+          <li>
+            includes two models.
+            <ul>
+              <li>
+                Builds a logistic regression model to predict the probability of survival and evaluates with classification metrics.
+              </li>
+              <li>
+                Builds a linear regression models to predict the fare of a ticket and evaluates with regression metrics.
+              </li>
+            </ul>
           </li>
         </ul>
       </li>
-    </ul>
-    <br/>        
+    </ul>       
   </ul>
   
